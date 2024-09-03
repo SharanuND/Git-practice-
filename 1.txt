@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 THis is master branch
+=======
+Hi this is sharanu the great
+>>>>>>> main_1
